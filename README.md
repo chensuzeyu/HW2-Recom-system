@@ -68,7 +68,7 @@ This project implements a complete book recommendation system based on the GoodB
   - Calculate prediction RMSE and visualize results
 - **Advantages**: Can effectively handle sparse data, solid theoretical foundation
 - **Disadvantages**: Complex parameter tuning, lower interpretability
- 
+
 ## Implementation Challenges and Solutions
 
 ### 1. Data Sparsity Problem
