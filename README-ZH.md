@@ -29,7 +29,7 @@
 ├── svd_predictions_scatter.png    # SVD预测结果散点图
 └── svd_factors_rmse.png           # 潜在因子分析图
 ```
-
+ 
 ## 功能模块详解
 
 ### 1. 数据准备与稀疏度分析
