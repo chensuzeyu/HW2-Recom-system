@@ -150,7 +150,8 @@ python task4_SVD_evaluation.py
 - matplotlib==3.5.3
 
 ## Author
-- [Chen Suzeyu](chensuzeyu@qq.com)
+- Chen Suzeyu
+- chensuzeyu@qq.com
 
 ## License
 - MIT License
